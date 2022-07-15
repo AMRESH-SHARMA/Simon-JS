@@ -16,4 +16,4 @@ APPROACH:
 
 Two arrays gamePattern and userClickedPattern (filled with random color generated) and compare both at every buttonpress.
 
-Reset arrays & level if comparison return false.
+Reset arrays & level if comparison return false, and change background color in style.css
